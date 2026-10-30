@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sahayak</string>
+    <string name="app_tagline">मराठी-प्रथम कृत्रिम बुद्धिमत्ता आणि आवाज सहाय्यक</string>
+    <string name="tap_to_speak">बोलण्यासाठी टॅप करा</string>
+    <string name="hold_to_talk">दाबून ठेवा आणि बोला (आवाज असलेला परिसर)</string>
+    <string name="live_translate">थेट भाषांतर (Live Speech)</string>
+    <string name="document_reader">कागदपत्र वाचक व सारांश</string>
+    <string name="schemes_title">शासकीय योजना व सेवा</string>
+    <string name="agri_mandi_title">कृषी सल्ला व बाजारभाव</string>
+</resources>

@@ -1,0 +1,9 @@
+{
+  "name": "Sahayak",
+  "description": "Marathi-First AI, Live Voice Translation and Inclusive Digital Access ecosystem for Maharashtra.",
+  "requestFramePermissions": [
+    "android.permission.RECORD_AUDIO",
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
